@@ -42,7 +42,7 @@ Ensure the following are installed:
 #### **A. Local Setup**
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/financial-reconciliation-agent.git
+git clone https://github.com/deepeshguru/financial-reconciliation-agent.git
 cd financial-reconciliation-agent
 ```
 
