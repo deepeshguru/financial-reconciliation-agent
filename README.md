@@ -1,7 +1,3 @@
-Here is a well-structured `README.md` file for your project:
-
----
-
 # **📌 Financial Reconciliation Agent**
 
 ## **📖 Problem Statement**
@@ -191,5 +187,3 @@ Feel free to fork this repository and submit PRs for improvements. 🚀
 
 ## **🙌 Acknowledgements**
 Special thanks to **ZenStatement** for providing the challenge and inspiration for this project.
-
----
