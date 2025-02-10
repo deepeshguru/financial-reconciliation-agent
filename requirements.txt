@@ -1,0 +1,12 @@
+pandas
+chardet
+json
+smtplib
+email
+os
+shutil
+ollama
+argparse
+pytest
+boto3  # For AWS Lambda (Optional)
+azure-functions  # For Azure (Optional)
